@@ -6,8 +6,8 @@
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foyzan&label=Profile%20views&color=0e75b6&style=flat" alt="foyzan" /> </p>
     
-- 🌱 I’m currently learning **Backend development with Django**
-    
+- 🌱 I’m currently learning **Full stack development with JavaScript**
+
 - 💬 Ask me about **Html, CSS-Animation, Js & Linux**
 - 📫 How to reach me **foyzanahmedapon01@gmail.com**
     
