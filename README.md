@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEPML13kiWBiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731340243482?e=1741824000&v=beta&t=wlTD-TOeqakhHQaxJKvER1I1b3g3j4byfjbqguQZbeU)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEPML13kiWBiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731340243482?e=1749081600&v=beta&t=QVgus6wSKXndlFAzdhduWMOsPWO2sXbLw8Z9DnFoqNk)
 <h1 align="center">Hi 👋, I'm Foyzan Ahmed</h1>
 <h3 align="center">A passionate programming</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="banner">
