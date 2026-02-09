@@ -1,57 +1,74 @@
-<!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEPML13kiWBiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731340243482?e=1764201600&v=beta&t=Y4MkQFx6J_gL7dpZZfeuKRpleTBHfkkHSmDC6ra-wmE" alt="MasterHead" width="100%" />
+<img src="assets/banner.png" alt="Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Foyzan Ahmed</h1>
-<h3 align="center">Fullstack Developer | Builder of Scalable & Emotionally Intelligent Systems</h3>
+# Hi 👋, I'm Foyzan Ahmed
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=foyzan&label=Profile%20views&color=0e75b6&style=flat" alt="foyzan" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎓 BBA Management student blending business insight with backend architecture  
-- 🧠 Passionate about building developer-first platforms with emotional clarity and technical depth  
-- 🌱 Currently mastering **Full Stack JavaScript** — MongoDB, Express, Node.js, React, and more  
-- 💬 Ask me about **JavaScript, MongoDB, Express, Mongoose, REST APIs, and backend workflows**  
-- 🧩 Exploring **remote job strategies** and **agentic AI** for future-proof development  
-- 📫 Reach me at: **foyzanahmedapon01@gmail.com**
-
----
-
-### 🛠️ Tech Stack
+Full-Stack Developer focused on backend systems, APIs, and scalable platforms.
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=foyzan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 📈 Current Focus
+## About me
 
-- 🔍 Deepening backend mastery with **MongoDB Atlas**, **Mongoose**, and **Redis caching**  
-- 🧠 Learning from hiring trends to craft a standout remote-ready resume  
-- 🧩 Architecting scalable messaging platforms and refining branding for **Construction View**
-
----
-
-### 🧠 Philosophy
-
-> “Code is communication. I build systems that speak clearly — to users, to teams, and to the future.”
+- Actively applying for backend roles and building production-ready projects.
+- BBA Management student combining business insight with engineering.
+- I build developer-first backend systems with attention to reliability and clarity.
+- Reach me: foyzanahmedapon01@gmail.com
 
 ---
 
-Let me know if you'd like to add GitHub stats, contribution streaks, or featured projects next!
+## Tech & Tools
+
+JavaScript • Node.js • Express • MongoDB • Mongoose • MySQL • Redis • Prisma • TypeScript (basic)
+Python (OOP) • C/C++ (DSA) • Linux basics • Networking (IP, MAC, subnet, DNS) • HTML • CSS • Tailwind • React (basic)
+
+---
+
+## Current focus
+
+- Backend engineering: APIs, caching, reliability (MongoDB Atlas, Mongoose, Redis).
+- Hiring-readiness: resume, interview prep, remote-job strategies.
+- Building and polishing "Construction View" and portfolio sites.
+
+---
+
+## Featured projects
+
+- My Blog API — a full blog backend: https://github.com/foyzan/my-blog-api
+
+---
+
+## Experience highlights
+
+Built 4 portfolio websites for corporate clients (architecture, interior design, construction consultancy, and EHT nonprofit), delivering end-to-end front-end and deployment.
+
+---
+
+## Quick links
+
+- GitHub: https://github.com/foyzan
+- LinkedIn: https://www.linkedin.com/in/foyzan
+- LeetCode: https://leetcode.com/u/foyzanahmedapon01/
+- X: https://x.com/AhmedFoyza69502
+- Facebook: https://www.facebook.com/foyzan
+
+---
+
+## GitHub stats (optional)
+
+- Top languages / stats (replace `foyzan` if needed):
+
+```
+https://github-readme-stats.vercel.app/api/top-langs/?username=foyzan&layout=compact&theme=tokyonight
+https://github-readme-stats.vercel.app/api?username=foyzan&show_icons=true&theme=tokyonight
+```
+
+---
+
+"Code is communication. I build systems that speak clearly — to users, to teams, and to the future."
+
+---
+
+Copy this file into your GitHub profile repository as README.md and place assets/banner.png alongside it.
